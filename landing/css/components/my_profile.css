@@ -1,0 +1,30 @@
+.my_profile {
+  width: 400px;
+  text-align: center;
+  background-color: white;
+  box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+  padding: 20px;
+  margin: 20px auto;
+}
+.my_profile h2{
+  margin: 0
+}
+.my_profile a{
+  display: block;
+}
+
+.my_profile a:hover{
+  display: block;
+  color: rgb(12, 12, 71);
+  transition: 0.2s;
+  text-shadow: 0 0 15px rgb(0 0 0 / 20%);
+}
+
+
+
+.my_profile img {
+  width: 80px;
+  height: auto;
+  border-radius: 50%;
+  box-shadow:0 5px 15px rgb(0 0 0 / 20%);
+}
